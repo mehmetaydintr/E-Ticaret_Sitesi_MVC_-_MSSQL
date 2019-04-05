@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="7dd10543a2e944e38cde85b21f0202af" Name="Diagram1">
+        <EntityTypeShape EntityType="HizliProjeModel.tblAdmin" Width="1.5" PointX="0.75" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="HizliProjeModel.tblFavoriler" Width="1.5" PointX="5.25" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="HizliProjeModel.tblKitap" Width="1.5" PointX="3" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HizliProjeModel.tblKitapTur" Width="1.5" PointX="0.75" PointY="8.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="HizliProjeModel.tblKullanici" Width="1.5" PointX="6" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HizliProjeModel.tblMesaj" Width="1.5" PointX="7.75" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="HizliProjeModel.tblPromosyon" Width="1.5" PointX="5.25" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="HizliProjeModel.tblSatinAlinanlar" Width="1.5" PointX="8.25" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HizliProjeModel.tblSepet" Width="1.5" PointX="5.25" PointY="11" IsExpanded="true" />
+        <EntityTypeShape EntityType="HizliProjeModel.tblYayinEvi" Width="1.5" PointX="0.75" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="HizliProjeModel.tblZiyaretci" Width="1.5" PointX="3" PointY="12.375" IsExpanded="true" />
+        <AssociationConnector Association="HizliProjeModel.FK_tblFavoriler_tblKitap" ManuallyRouted="false" />
+        <AssociationConnector Association="HizliProjeModel.FK_tblFavoriler_tblKullanici" ManuallyRouted="false" />
+        <AssociationConnector Association="HizliProjeModel.FK_tblKitap_tblKitapTur" ManuallyRouted="false" />
+        <AssociationConnector Association="HizliProjeModel.FK_tblKitap_tblYayinEvi" ManuallyRouted="false" />
+        <AssociationConnector Association="HizliProjeModel.FK_tblPromosyon_tblKitap" ManuallyRouted="false" />
+        <AssociationConnector Association="HizliProjeModel.FK_tblSatinAlinanlar_tblKitap" ManuallyRouted="false" />
+        <AssociationConnector Association="HizliProjeModel.FK_tblSepet_tblKitap" ManuallyRouted="false" />
+        <AssociationConnector Association="HizliProjeModel.FK_tblPromosyon_tblKitapTur" ManuallyRouted="false" />
+        <AssociationConnector Association="HizliProjeModel.FK_tblSatinAlinanlar_tblKullanici" ManuallyRouted="false" />
+        <AssociationConnector Association="HizliProjeModel.FK_tblSepet_tblKullanici1" ManuallyRouted="false" />
+        <AssociationConnector Association="HizliProjeModel.FK_tblSepet_tblZiyaretci1" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
