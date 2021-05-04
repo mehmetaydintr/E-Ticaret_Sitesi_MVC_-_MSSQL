@@ -9,8 +9,16 @@
 
 ## Kullanılan Teknolojiler
 
+ + Visual Studio
+
 ![Image of Visual Studio](https://www.usine-logicielle.org/wp-content/uploads/2017/12/Visual-pic.jpg "Visual Studio")
+
+  + ASP.Net MVC
+
 ![Image of ASP.Net MVC](https://webmaster.kitchen/wp-content/uploads/asp-net-mvc.png "ASP.Net MVC")
+
+  + MSSQL
+
 ![Image of MSSQL](https://www.pngarea.com/pngm/418/3133888_sql-png-microsoft-sql-server-logo-transparent-png.png "MSSQL")
 
 ## Proje Tanımı
