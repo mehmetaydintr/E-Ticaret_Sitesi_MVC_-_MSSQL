@@ -2,10 +2,10 @@
 
 ## İçerik
 
-1. Kullanılan Teknojiler
-2. Proje Tanımı
-3. Rollerin Dağılımı
-4. Tanıtım Videosu
+1. [Kullanılan Teknojiler](https://github.com/mehmetaydintr/E_Ticaret_Sitesi#kullan%C4%B1lan-teknolojiler)
+2. [Proje Tanımı](https://github.com/mehmetaydintr/E_Ticaret_Sitesi#proje-tan%C4%B1m%C4%B1)
+3. [Rollerin Dağılımı](https://github.com/mehmetaydintr/E_Ticaret_Sitesi#rollerin-da%C4%9F%C4%B1l%C4%B1m%C4%B1)
+4. [Tanıtım Videosu](https://github.com/mehmetaydintr/E_Ticaret_Sitesi#tan%C4%B1t%C4%B1m-videosu)
 
 ## Kullanılan Teknolojiler
 
